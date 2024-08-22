@@ -1,5 +1,6 @@
-This is your new *vault*.
+I want start English training, so that is not best under grammar or word.
+Welcome in my obsidian page.
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
+If you want help me, please contact with me in Telegram:
+	My Telegram ID: [MKarimi21](https://t.me/mkarimi21)
+	
