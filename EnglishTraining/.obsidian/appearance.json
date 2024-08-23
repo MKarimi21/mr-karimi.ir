@@ -1,1 +1,8 @@
-{}
+{
+  "interfaceFontFamily": "Ubuntu,Vazirmatn",
+  "textFontFamily": "Ubuntu,Vazirmatn",
+  "monospaceFontFamily": "Ubuntu,Vazirmatn",
+  "nativeMenus": true,
+  "cssTheme": "Minimal",
+  "accentColor": "#43748e"
+}
