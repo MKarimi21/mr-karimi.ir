@@ -1,10 +1,15 @@
 [
-  "table-editor-obsidian",
-  "obsidian-banners",
   "calendar",
   "obsidian-kanban",
   "obsidian-rtl",
-  "highlightr-plugin",
   "webpage-html-export",
-  "obsidian-icon-folder"
+  "homepage",
+  "table-editor-obsidian",
+  "obsidian-advanced-slides",
+  "editing-toolbar",
+  "obsidian-projects",
+  "various-complements",
+  "obsidian-full-calendar",
+  "obsidian-charts",
+  "media-extended"
 ]

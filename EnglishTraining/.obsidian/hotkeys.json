@@ -7,5 +7,31 @@
       ],
       "key": "V"
     }
+  ],
+  "obsidian-banners:banners:lockBanner": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-banners:banners:addBanner": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-banners:banners:removeBanner": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
   ]
 }
