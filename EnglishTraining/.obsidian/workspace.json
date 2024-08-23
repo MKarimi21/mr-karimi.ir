@@ -15,7 +15,6 @@
               "state": {
                 "file": "Welcome.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -157,11 +156,15 @@
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "8ea22037851d9cd0",
   "lastOpenFiles": [
+    "My Workflow.md",
+    "Welcome.md",
+    "LinkedIn_Cover.png",
     "Welcome.html",
     "Untitled.canvas",
     "Vocabulary",
@@ -169,7 +172,6 @@
     "Writing",
     "Reading",
     "Listening",
-    "Welcome.md",
     "create a link.md"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "obsidian-banners:banners:pasteBanner": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ]
+}

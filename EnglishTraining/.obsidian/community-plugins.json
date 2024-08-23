@@ -3,8 +3,7 @@
   "obsidian-banners",
   "calendar",
   "obsidian-kanban",
-  "obsidian-pandoc",
   "obsidian-rtl",
-  "templater-obsidian",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "webpage-html-export"
 ]
