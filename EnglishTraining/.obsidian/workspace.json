@@ -11,11 +11,18 @@
             "id": "8ea22037851d9cd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "My Workflow.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -85,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "My Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "My Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "My Workflow.md"
               }
             }
           },
@@ -160,7 +167,51 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8ea22037851d9cd0",
+  "floating": {
+    "id": "bd64ab0ad44416d5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "38a99e4f3b151a04",
+        "type": "window",
+        "children": [
+          {
+            "id": "ce422a81298015b5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ff04b5263e3ba417",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "My Workflow.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 532,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ff04b5263e3ba417",
   "lastOpenFiles": [
     "My Workflow.md",
     "Welcome.md",

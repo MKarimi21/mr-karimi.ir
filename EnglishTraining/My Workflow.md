@@ -1,7 +1,6 @@
 ---
-
 kanban-plugin: board
-
+icon: LiKanbanSquare
 ---
 
 ## Backlog
@@ -19,7 +18,7 @@ kanban-plugin: board
 
 ## Done
 
-- [ ] Make Website
+- [x] Make Website
 
 
 
