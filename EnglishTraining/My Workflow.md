@@ -1,6 +1,8 @@
 ---
+
 kanban-plugin: board
 icon: LiKanbanSquare
+
 ---
 
 ## Backlog
@@ -9,7 +11,6 @@ icon: LiKanbanSquare
 
 ## To Do
 
-- [ ] Choose Application
 
 
 ## In Progressing
@@ -18,6 +19,7 @@ icon: LiKanbanSquare
 
 ## Done
 
+- [x] Choose Application
 - [x] Make Website
 
 
