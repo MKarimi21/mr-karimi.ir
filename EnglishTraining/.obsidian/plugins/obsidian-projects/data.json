@@ -102,6 +102,85 @@
       "name": "Demo project",
       "id": "462c0658-80ae-47ea-bf98-d9ba4f348cb8",
       "path": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#43748e",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b53bd3c4-ac80-4fe3-b8b5-fb07e8743131",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "includeFields": [],
+            "groupByField": "name"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "ce21ef3a-9dad-4bc7-82a3-f5d13670859e",
+          "name": "MyBoard",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "cf959e4f-d372-4508-b2e7-b4fb85052cc7",
+          "name": "MyCalendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "c0a763e5-6e28-4644-8557-5729c4d18ed6",
+      "name": "My-Road-Map"
     }
   ],
   "archives": [],
