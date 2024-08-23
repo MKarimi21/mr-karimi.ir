@@ -1,6 +1,8 @@
 ---
+
 kanban-plugin: board
 icon: LiKanbanSquare
+
 ---
 
 ## Backlog
