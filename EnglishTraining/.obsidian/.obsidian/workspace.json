@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "9c7a63ee240d1238",
+    "id": "726ed65eed9e9d69",
     "type": "split",
     "children": [
       {
-        "id": "2f7e81f1e30139c0",
+        "id": "853c95818a73aa56",
         "type": "tabs",
         "children": [
           {
-            "id": "04ce3c24d9f5203b",
+            "id": "a4be2d0f6d18c2ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Speaking/01-Part01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a9724663d77d9c20",
+    "id": "bea3937a0ed975d6",
     "type": "split",
     "children": [
       {
-        "id": "fa7ba84aef2a7c9c",
+        "id": "81fde063e58283be",
         "type": "tabs",
         "children": [
           {
-            "id": "8b655201e2069bd6",
+            "id": "f8b3d2785b9a491c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "ccfd076f4031a97c",
+            "id": "955cff53333ad774",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "45805b61985a0f97",
+            "id": "533d94b4f804ad82",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "786a40585d3dc078",
+    "id": "3f6543fa3be55441",
     "type": "split",
     "children": [
       {
-        "id": "95f32045821ed9db",
+        "id": "73bcd614923e4963",
         "type": "tabs",
         "children": [
           {
-            "id": "c615a89670e701ea",
+            "id": "66fd33bfb4245da8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speaking/01-Part01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "9b580df10efa0eb7",
+            "id": "73f6aefe1fde08f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speaking/01-Part01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d8c30b7e220bc333",
+            "id": "3b362ea8a5716ffb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,20 +114,10 @@
             }
           },
           {
-            "id": "1075ccc7195d81af",
+            "id": "5b5ee1118deda43a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Speaking/01-Part01.md"
-              }
-            }
-          },
-          {
-            "id": "f3423ab3a959366a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -141,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -151,33 +135,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "obsidian-kanban:Create new board": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "media-extended:Open media": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "04ce3c24d9f5203b",
-  "lastOpenFiles": [
-    "Welcome.md",
-    "My-Workflow.md",
-    "Speaking/01-Part01.md",
-    "OIG1.jpeg",
-    "LinkedIn_Cover.png",
-    "Welcome.html",
-    "Untitled.canvas",
-    "Vocabulary",
-    "Speaking",
-    "Writing",
-    "Reading",
-    "Listening",
-    "create a link.md"
-  ]
+  "active": "a4be2d0f6d18c2ee",
+  "lastOpenFiles": []
 }
