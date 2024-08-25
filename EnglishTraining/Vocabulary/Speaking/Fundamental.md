@@ -1,13 +1,10 @@
----
-icon: LiVolume2
----
 ![Fundamental](https://bpcdn.co/images/2016/05/grade14-technical-vs-fundamental-analysis.png)
 
 
 ## Fundamental
 🔊 [/ˌfʌndəˈmɛntl/](https://ssl.gstatic.com/dictionary/static/sounds/20220808/fundamental--_gb_1.mp3)
 
-### *adjective: **fundamental***
+### *adjective: fundamental*
 
 1. forming a necessary base or core; of central importance.
         "the protection of fundamental human rights"     
@@ -23,8 +20,9 @@ icon: LiVolume2
         "the theories are based on a fundamental error"
 
 
-### *noun: **fundamental**; plural 
-noun: **fundamentals***
+### *noun: fundamental; plural* 
+
+*noun: fundamentals*
 
 2. a central or primary rule or principle on which something is based.
         "two courses cover the fundamentals of microbiology"    
@@ -45,6 +43,5 @@ noun: **fundamentals***
 ![Uses](https://ssl.gstatic.com/onebox/dictionary/ngram/en/desktop/9e24e3b5fa5d85b983e557304636e511b6428b35.png)
 
 ## Translation
-
 *adj:*
 اساسی، بنیادی
